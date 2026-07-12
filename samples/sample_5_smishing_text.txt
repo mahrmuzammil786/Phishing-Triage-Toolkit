@@ -1,0 +1,7 @@
+[SMS - Unknown Sender]
+
+FedEx: Your package could not be delivered due to an incomplete
+address. Reschedule delivery within 12 hours or it will be returned
+to sender: http://fedex-redeliver.info/trk?id=99213
+
+Reply STOP to opt out.

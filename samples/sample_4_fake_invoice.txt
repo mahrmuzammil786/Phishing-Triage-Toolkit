@@ -1,0 +1,20 @@
+From: Billing Team <billing@cloudsuite-payments.net>
+To: accounts@northwindcorp.com
+Subject: Urgent: Your subscription payment has failed
+
+Hello,
+
+We were unable to process your latest subscription payment. Your
+account and all associated services will be suspended within 24 hours
+if billing information is not updated immediately.
+
+Update your billing details here to avoid service interruption:
+
+https://bit.ly/cs-billing-update-2026
+
+Attachment: Invoice_2026_00219.iso
+
+If you believe this is an error, contact our support line at
+1-800-XXX-XXXX to cancel or dispute the charge.
+
+CloudSuite Billing

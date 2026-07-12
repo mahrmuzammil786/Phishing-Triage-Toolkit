@@ -135,7 +135,7 @@ this project focuses on the human-analyst layer described in the training deck.
 ## Next steps (bonus)
 
 - Add SPF/DKIM/DMARC header parsing for real inbound emails
+- Build a small web UI (like the Caesar Cipher project's browser version) so
+  non-technical staff can paste a message and get an instant verdict
 - Expand the brand-impersonation list and add homoglyph (lookalike character)
   detection for domains
-- Deploy the Flask app to a live server (e.g. Render, Railway) instead of
-  running it locally only

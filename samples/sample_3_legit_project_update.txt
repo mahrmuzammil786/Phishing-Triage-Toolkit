@@ -1,0 +1,16 @@
+From: Sarah Lee <sarah.lee@northwindcorp.com>
+To: team-projects@northwindcorp.com
+Subject: Q3 Project Status Update - Non-Urgent
+
+Hi Team,
+
+Please review the attached project status report for Q3 whenever you
+get a chance this week. No immediate action is required - we'll go
+through it together at Thursday's stand-up.
+
+Let me know if you spot anything that looks off before then.
+
+Thanks,
+Sarah
+
+Attachment: Q3_Status_Report.pdf
